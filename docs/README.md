@@ -8,7 +8,7 @@ heroAlt: 黄德学的面经
 heroText: 欢迎来到huangdx的博客
 actions:
   - text: 进入
-    link: /interview/
+    link: /questions/
     type: primary
 features:
   - title: 简洁至上

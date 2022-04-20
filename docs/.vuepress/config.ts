@@ -1,5 +1,6 @@
 module.exports = {
     // 站点配置
+    base:'/',
     lang: 'zh-CN',
     title: 'hunagdx的博客',
     description: "这里将记录我找工作的所有面试题以及感想",
@@ -43,6 +44,7 @@ module.exports = {
             ],
 
             '/questions/': [
+                '/questions/README.md',
                 {
                     text: 'js系列',
                     collapsible: true,
